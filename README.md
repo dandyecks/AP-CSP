@@ -1,8 +1,7 @@
 # AP-CSP
 
-🗿
 > Unclaimed Bank Accounts
-Link: * https://opendata.socrata.com/Government/Unclaimed-bank-accounts/n2rk-fwkj *
+Link: * https://opendata.socrata.com/Government/Unclaimed-bank-accounts/n2rk-fwkj * 🗿
 
 # So WHAT about this data? :+1:
 1. How can these unused bank accounts effect businesses?
